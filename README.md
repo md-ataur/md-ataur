@@ -3,7 +3,9 @@
 
 👨‍💻 Personal Website [https://md-ataur.github.io/](https://md-ataur.github.io/)
 
-📝 I Write articles on [https://techtalksbd.wordpress.com/](https://techtalksbd.wordpress.com/)
+📝 I write articles on [https://techtalksbd.wordpress.com/](https://techtalksbd.wordpress.com/)
+
+📺 Youtube Channel [https://www.youtube.com/@techvessel](https://www.youtube.com/@techvessel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,10 +18,10 @@
 </p>
 
 <p align="left">
-♥️  I enjoy programming and sharing knowledge <br>
-💻  Most used line of code <code>console.log("hello world")</code> <br>
-🤔  I’m looking for people who can help me with Outstanding Video ideas and executions.<br>
-📧  How to reach me: <a href="mdataur15@gmail.com">mdataur15@gmail.com</a><br>
+♥️ I enjoy programming and sharing knowledge <br>
+💻 Most used line of code <code>console.log("hello world")</code> <br>
+🤔 I’m looking for people who can help me with Outstanding Video ideas and executions.<br>
+📧 How to reach me: <a href="mdataur15@gmail.com">mdataur15@gmail.com</a><br>
 ⚡ I founded a digital marketing agency "Flowda Tech Digital".
 </p>
 
